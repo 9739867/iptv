@@ -1,21 +1,11 @@
 内蒙古,#genre#
 
 内蒙古卫视高清,http://[2409:8087:1020:301:2026::17]:80/wh7f454c46tw4043708069_-1128600244/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/10000100000000060000000000000713_0.smil/01.m3u8?fmt=ts2hls
-内蒙古卫视高清(蒙语),http://[2409:8087:1020:301:2026::21]:80/wh7f454c46tw4050630800_-1848073355/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225705/10000100000000060000000000000743_0.smil/01.m3u8?fmt=ts2hls
-内蒙古文化频道高清(蒙语),http://[2409:8087:1070:301:2026::15]:80/wh7f454c46tw4183914254_1795921018/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/10000100000000060000000000307694_0.smil/01.m3u8?fmt=ts2hls
 内蒙古少儿频道高清,http://[2409:8087:1070:301:2028::15]:80/wh7f454c46tw4183359673_-1909268013/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/10000100000000060000000000307696_0.smil/01.m3u8?fmt=ts2hls
 内蒙古新闻综合高清,http://[2409:8087:1070:301:2026::1e]:80/wh7f454c46tw4183638595_425248275/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225875/10000100000000060000000000307695_0.smil/01.m3u8?fmt=ts2hls
 内蒙古文体娱乐高清,http://[2409:8087:1050:301:2026::17]:80/wh7f454c46tw4184193910_-1511698512/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225877/10000100000000060000000000307693_0.smil/01.m3u8?fmt=ts2hls
 内蒙古农牧频道高清,http://[2409:8087:1070:301:2028::18]:80/wh7f454c46tw4184507566_-1978376124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225878/10000100000000060000000000307692_0.smil/01.m3u8?fmt=ts2hls
 内蒙古经济生活高清,http://[2409:8087:1070:301:2028::1d]:80/wh7f454c46tw4184773705_-1979084447/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225879/10000100000000060000000000307691_0.smil/01.m3u8?fmt=ts2hls
-内蒙古卫视,http://[2409:8087:1030:301:2025::18]:80/wh7f454c46tw4123234691_-1087736446/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225765/10000100000000060000000000000837_0.smil/01.m3u8?fmt=ts2hls
-内蒙古卫视(蒙语),http://[2409:8087:1020:301:2026::25]:80/wh7f454c46tw4123518834_-1472072044/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225766/10000100000000060000000000000838_0.smil/01.m3u8?fmt=ts2hls
-内蒙古文化频道(蒙语),http://[2409:8087:1070:301:2026::1f]:80/wh7f454c46tw4123810774_-1909598702/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225767/10000100000000060000000000000839_0.smil/01.m3u8?fmt=ts2hls
-内蒙古新闻综合,http://[2409:8087:1070:301:2026::1f]:80/wh7f454c46tw4124104636_-487315788/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225768/10000100000000060000000000000840_0.smil/01.m3u8?fmt=ts2hls
-内蒙古经济生活,http://[2409:8087:1070:301:2026::1f]:80/wh7f454c46tw4124394990_584235849/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225769/10000100000000060000000000000841_0.smil/01.m3u8?fmt=ts2hls
-内蒙古文体娱乐,http://[2409:8087:1020:301:2026::2c]:80/wh7f454c46tw4124678370_1698072735/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225770/10000100000000060000000000000842_0.smil/01.m3u8?fmt=ts2hls
-内蒙古少儿频道,http://[2409:8087:1020:301:2026::1f]:80/wh7f454c46tw4124974011_-115417052/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225771/10000100000000060000000000000843_0.smil/01.m3u8?fmt=ts2hls
-内蒙古农牧频道,http://[2409:8087:1070:301:2026::22]:80/wh7f454c46tw4125261883_1795791203/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225772/10000100000000060000000000000844_0.smil/01.m3u8?fmt=ts2hls
 内蒙古·锡林郭勒·一套,http://[2409:8087:1050:301:2026::13]:80/wh7f454c46tw4129021068_-577849345/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225790/10000100000000060000000000004355_0.smil/01.m3u8?fmt=ts2hls
 内蒙古·锡林郭勒·二套,http://[2409:8087:1050:301:2026::13]:80/wh7f454c46tw4128728494_324879314/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225789/10000100000000060000000000004352_0.smil/01.m3u8?fmt=ts2hls
 内蒙古·锡林郭勒·太仆寺旗广播电视台,http://[2409:8087:1030:201:2022::2b]:80/wh7f454c46tw4128144674_-345031186/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225786/10000100000000060000000000004344_0.smil/01.m3u8?fmt=ts2hls
@@ -128,12 +118,12 @@ CGTN法语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226520/index.m
 CGTN俄语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8
 CGTN西班牙语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
 CGTN阿拉伯语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8
-CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV1,http://183.188.159.231:6000/rtp/226.0.2.68:8456
 CETV1,http://183.188.159.231:6000/rtp/226.0.2.181:9360
-CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV2,http://183.188.159.231:6000/rtp/226.0.2.69:8464
-CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV4,http://183.188.159.231:6000/rtp/226.0.2.70:8472
 CETV早期教育,http://183.188.159.231:6000/rtp/226.0.2.99:8704
 CCTV央视台球,http://183.188.159.231:6000/rtp/226.0.2.216:9640
@@ -601,13 +591,7 @@ Now星河台,http://cdn12.1678520.xyz/live/?id=xyt
 
 电影频道,#genre#
 1905国内电影,http://cdn.jdshipin.com:8880/1905ts.php?id=1905a
-CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8 # http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=$山东移动IPV6
-CHC动作电影,http://58.19.244.92:1111/tsfile/live/1019_1.m3u8 # http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$山东移动IPV6
-CHC家庭影院,http://58.19.244.92:1111/tsfile/live/1018_1.m3u8 # http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=$山东移动IPV6
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
-CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
-CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
-CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
 CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
@@ -734,7 +718,7 @@ TRACEU,http://litv.zapi.us.kg/?id=4gtv-4gtv082
 MEZZOl,http://litv.zapi.us.kg/?id=4gtv-4gtv083
 Ginx_TV,http://litv.zapi.us.kg/?id=4gtv-4gtv053
 
-代理,#genre#
+AKTV,#genre#
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
