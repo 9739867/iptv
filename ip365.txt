@@ -518,7 +518,7 @@ NOW星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=631170156121436&edge
 风凰资讯,http://223.105.252.39/PLTV/3/224/3221228524/indindex.m3u8
 凤凰中文,http://223.105.252.39/PLTV/3/224/3221228527/indindex.m3u8
 风凰香港,http://223.105.252.39/PLTV/3/224/3221228530/indindex.m3u8
-无线翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 无线星河国,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
@@ -539,8 +539,6 @@ TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 星河台,https://cdn.iptv8k.top/dl/jspd.php?id=4
 经典台,https://cdn.iptv8k.top/dl/jspd.php?id=5
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 TVB Plus,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 无线新闻,mitv://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
 翡翠备,mitv://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
@@ -621,7 +619,6 @@ TVB 翡翠,http://223.244.26.190:8082/tvb翡翠.盗源者死全家/易發TV/hls.
 Now 星影,http://223.244.26.190:8082/now星影.盗源者死全家/易發TV/hls.m3u8
 Now 爆谷,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m3u8
 东森新闻,http://220.249.51.134:10006/东森新闻-盗源者死全家/易發TV/hls.m3u8
-TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8?$台湾中华电信1
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
@@ -713,7 +710,7 @@ Amc电影,http://litv.zapi.us.kg/?id=4gtv-4gtv017
 CAT电影,http://litv.zapi.us.kg/?id=4gtv-4gtv076
 TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
 SMArt知识台,http://litv.zapi.us.kg/?id=litv-longturn19
-GLO-Bet,http://litv.zapi.us.kg/?id=4gtv-4gtv016
+韩国娱乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv016
 TRACEU,http://litv.zapi.us.kg/?id=4gtv-4gtv082
 MEZZOl,http://litv.zapi.us.kg/?id=4gtv-4gtv083
 Ginx_TV,http://litv.zapi.us.kg/?id=4gtv-4gtv053
