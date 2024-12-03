@@ -138,7 +138,7 @@ IPTV,#genre#
 超级综艺,http://[2409:8087:74d9:21::6]:80/270000001128/9900000019/index.m3u8
 金牌综艺,http://[2409:8087:74d9:21::6]:80/270000001128/9900000112/index.m3u8
 炫舞未来,http://[2409:8087:74d9:21::6]:80/270000001128/9900000098/index.m3u8
-18+,#genre# 8567
+18+,#genre#
 Live Cams,http://cdn.adultiptv.net/livecams.m3u8
 MILF,http://cdn.adultiptv.net/milf.m3u8
 Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
