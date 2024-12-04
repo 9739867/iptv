@@ -43,7 +43,6 @@
 内蒙古·乌兰察布·察右中旗广播电视台,http://[2409:8087:1050:301:2026::18]:80/wh7f454c46tw4181882405_-1464359457/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225869/10000100000000060000000000293453_0.smil/01.m3u8?fmt=ts2hls
 内蒙古·乌兰察布·化德广播电视台,http://[2409:8087:1050:301:2026::17]:80/wh7f454c46tw4182168436_-1300087045/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225870/10000100000000060000000000293451_0.smil/01.m3u8?fmt=ts2hls
 内蒙古·乌兰察布·丰镇广播电视台,http://[2409:8087:1050:301:2026::18]:80/wh7f454c46tw4182452473_1433549460/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225871/10000100000000060000000000293450_0.smil/01.m3u8?fmt=ts2hls
-央视,#genre#
 
 央视频道,#genre#
 CCTV-1 综合,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=
