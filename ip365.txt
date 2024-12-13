@@ -830,3 +830,12 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 启航2024 CCTV跨年晚会【CCTV综艺频道】,https://v10.dious.cc/20240101/jb33ogNp/index.m3u8
 2024年珠江春节联欢晚会,https://v10.dious.cc/20240209/lNN6pUqq/index.m3u8
 2024年中央广播电视总台网络春节联欢晚会【CCTV综合频道】,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+18+_8567,#genre#
+彩虹E台,http://mtw.so/6hAv
+WA#,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/18075/index.m3u8
+香蕉台,http://m6z.cn/6i4V7S
+惊艳台,http://m6z.cn/61I2Cw
+潘多拉,http://m6z.cn/6x38SU
+🌈①,http://m6z.cn/6vMxT6
+松①,http://mtw.so/6wCBqQ
+松③,http://mtw.so/6hAvWA
